@@ -19,3 +19,7 @@
 body{
   background-color: var(--cor02);
 }
+
+main{
+  background-color: white;
+}
