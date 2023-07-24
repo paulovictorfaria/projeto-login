@@ -4,7 +4,18 @@
   PALETA DE CORES
   verde: #49a09d
   lilas: #5f2c82
-  
+
 
 
 */
+
+:root{
+  --cor01: #49a09d;
+  --cor02: #5f2c82;
+}
+
+
+
+body{
+  background-color: var(--cor02);
+}
